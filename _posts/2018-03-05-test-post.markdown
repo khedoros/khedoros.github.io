@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Test Manually Adding a New Post"
+date:   2018-03-05 15:52:48 -0800
+categories: test update
+---
+So, I decided to finally host a blog through my github.io URL. I've never used Jekyll before, so early posts here will just be in the service of testing the sucker out and figuring out how to use it.
+
+It's not like I need anything complex...just a place to write that I can easily use to publish posts.
